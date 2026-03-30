@@ -1,0 +1,2 @@
+recursive-include allauth_thaid/static *
+recursive-include allauth_thaid/templates *
